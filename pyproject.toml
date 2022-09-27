@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "django-hw-1"
+version = "0.1.0"
+description = ""
+authors = ["spbproger <zemli2016@yandex.ru>"]
+readme = "README.md"
+packages = [{include = "django_hw_1"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Django = "^4.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
