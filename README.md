@@ -1,6 +1,5 @@
-# django_hw_1
-# Первые шаги в Джанго:
+# Django:
 - poetry
-- миграции
-- связь представлений и адресов
-- настройка админ-панели
+- migrations
+- linking views and addresses
+- configuring the admin panel
